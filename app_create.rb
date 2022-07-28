@@ -2,6 +2,7 @@
 #Upcoming goals to include: 
 # 1) option to generate db method and modify seeds.rb file to include format to add instances. 
 # 2) option at beginning to pick directory to create app.
+# 3) option to select additional gems to bundle with app.
 
 #current use - place this in the file where you want to create your app and run
 
