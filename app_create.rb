@@ -1,7 +1,10 @@
 #This file is an attempt to create some sort of automation for creating a new app
+#Upcoming goals to include: 
+# 1) option to generate db method and modify seeds.rb file to include format to add instances. 
+# 2) option at beginning to pick directory to create app.
 
-#use - place this in the file where you want to create your app and run
-#note - add way to choose directory
+#current use - place this in the file where you want to create your app and run
+
 
 p "Enter the name of your app"
 app_name = gets.chomp
