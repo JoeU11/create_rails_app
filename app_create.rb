@@ -9,7 +9,6 @@
 
 
 #use - place this in the file where you want to create your app and run
-#note - add way to choose directory
 
 p "Enter the name of your app"
 app_name = gets.chomp
